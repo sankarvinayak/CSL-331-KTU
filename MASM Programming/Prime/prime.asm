@@ -1,6 +1,6 @@
 
-;PROGRAM TO FIND SUM OF N NUMBERS
-;================================
+;PROGRAM TO FIND IF THE GIVEN NUMBER IS PRIME OR NOT
+;===================================================
 
 .model small
 .stack 100H
