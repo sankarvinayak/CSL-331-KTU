@@ -1,5 +1,5 @@
 
-;PROGRAM TO FIND SUM OF N NUMBERS
+;PROGRAM TO FIND SMALLEST OF N NUMBERS
 ;================================
 
 .model small
