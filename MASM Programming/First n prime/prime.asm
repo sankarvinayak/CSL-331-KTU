@@ -6,9 +6,6 @@
 .stack 100H
 .data
 msg1 db 'enter the limit   : $'
-
-msg2 db 'Not a prime $'
-msg3 db 'Is a prime $'
 newline db 10,13, '$'
 num dw ?
 limit dw ?
@@ -138,16 +135,3 @@ printmsg ENDP
 	displayAX ENDP
 
 END
-
-
-
-
-
-
-
-
-
-
-
-
-
