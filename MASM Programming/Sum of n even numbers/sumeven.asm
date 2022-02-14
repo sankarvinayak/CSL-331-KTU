@@ -1,6 +1,6 @@
 
-;PROGRAM TO FIND SMALLEST OF N NUMBERS
-;================================
+;PROGRAM TO FIND SUM OF EVEN NUMBERS FROM N NUMBERS
+;==================================================
 
 .model small
 .stack 100H
